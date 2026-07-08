@@ -1,17 +1,17 @@
 {
   "shows": {
-    "PVPZ|33668|20260718|ELITE": {
+    "PVPZ|33670|20260719|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "09:00 AM",
-      "date": "20260718",
+      "date": "20260719",
       "cat": "ELITE",
       "price": "508.34",
       "status": "1"
     },
-    "PVPZ|34637|20260718|ELITE": {
+    "PVPZ|34640|20260719|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "12:30 PM",
-      "date": "20260718",
+      "date": "20260719",
       "cat": "ELITE",
       "price": "508.34",
       "status": "1"
@@ -19,8 +19,8 @@
   },
   "dates": {
     "20260717": "AVAILABLE",
-    "20260718": "BOOKABLE",
-    "20260719": "AVAILABLE",
+    "20260718": "AVAILABLE",
+    "20260719": "BOOKABLE",
     "20260720": "NOT_OPEN",
     "20260721": "NOT_OPEN",
     "20260722": "NOT_OPEN",
